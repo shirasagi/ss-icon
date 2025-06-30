@@ -1,0 +1,18 @@
+{
+  "name": "shirasagi-icons",
+  "inputDir": "src/font/svg",
+  "outputDir": "dist/assets/font",
+  "fontsUrl": "/assets/font",
+  "normalize": true,
+  "fontTypes": [
+    "eot",
+    "woff",
+    "woff2"
+  ],
+  "assetTypes": [
+    "scss",
+    "css",
+    "html"
+  ],
+  "prefix": "ss-icon"
+}
