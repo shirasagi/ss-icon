@@ -14,5 +14,6 @@
     "css",
     "html"
   ],
-  "prefix": "ss-icon"
+  "prefix": "ss-icon",
+  "tag": "span"
 }
